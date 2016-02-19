@@ -1,0 +1,11 @@
+{
+  "name": "node-http-server",
+  "version": "1.0.0",
+  "description": "NodeJS http server doing CRUD operations with Book entity using Mongo DB",
+  "main": "index.js",
+  "author": "Yuliia Vovk",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.0"
+  }
+}
